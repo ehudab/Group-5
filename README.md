@@ -4,7 +4,7 @@
 SIEM Lite will be a powerful security tool designed to collect and analyze logs from various devices to detect cyber threats.  
 It will help users find attacks like brute-force logins, port scans, suspicious commands, and more, while keeping the design simple but open for future improvements.
 
-## Goals
+## Objective
 - Collect and centralize security logs from Linux, Windows, firewalls, IDS, and other sources.  
 - Correlate events across devices to uncover multi-step attacks.  
 - Send real-time alerts for suspicious activity.  
